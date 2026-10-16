@@ -1,6 +1,6 @@
 # 01 · Personas + 14 roteiros (senhoras / Natal / mini)
 
-**Status:** TODO
+**Status:** DONE
 
 Leia `docs/contexto/projeto-influenciadores-vendedores-ia.md`, `aprendizados-x-influencer-ia.md`, `pesquisa-dtf-vendas-out-dez-2026.md`.
 
