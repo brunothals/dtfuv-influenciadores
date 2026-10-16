@@ -1,6 +1,6 @@
 # 02 · Prompts técnicos Dora + Vó Lina
 
-**Status:** TODO · Depende de: Claude 01 (personas) idealmente; se Claude não entregou, use `docs/contexto/projeto-influenciadores-vendedores-ia.md`
+**Status:** DONE (grok)
 
 ## Entregar
 - `docs/producao/prompts-dora.md` — prompt-base + cref + 6 poses

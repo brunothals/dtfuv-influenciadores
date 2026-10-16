@@ -3,6 +3,6 @@
 | # | Arquivo | Status |
 |---|---------|--------|
 | 01 | `01-pipeline-producao.md` | DONE |
-| 02 | `02-assets-prompts-dora-lina.md` | TODO |
+| 02 | `02-assets-prompts-dora-lina.md` | DONE (grok) |
 
-**Próxima:** 02
+**Próxima:** — (fila concluída)
