@@ -1,6 +1,6 @@
 # 02 · Ads Meta + TikTok + WhatsApp
 
-**Status:** TODO · Depois da 01
+**Status:** DONE (grok)
 
 ## Entregar
 - `docs/ads/meta-ads-senhoras-natal.md`
