@@ -1,6 +1,6 @@
 # 03 · Legendas, hashtags e calendário
 
-**Status:** TODO · Depois da 02
+**Status:** DONE (grok)
 
 ## Entregar
 - `docs/ads/influenciadores/legendas-hashtags.md` (sem #glitter #metalizado)
